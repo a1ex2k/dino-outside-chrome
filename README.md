@@ -4,6 +4,6 @@
 The source code may seem to be copy-pasted from other repos.
 Written fo fun.</p>
 <br>
-`Any Key` - to Start the Game.<br>
-**&#8593;** `Up Arrow`  - to jump and avoid cacti.<br>
-**&#8595;** `Down Arrow`  - to duck and avoid pterodactyls.
+<code>Any Key</code>    - to Start the Game.<br>
+<code>Up Arrow</code>   - to jump and avoid cacti.<br>
+<code>Down Arrow</code> - to duck and avoid pterodactyls.
